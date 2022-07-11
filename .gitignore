@@ -5,7 +5,6 @@ coverage/
 coverage.html
 .nyc_output
 yarn-error.log
-dist/
 /**/trie.json
 /**/trieIndic.json
 /**/trieUse.json
